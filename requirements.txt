@@ -1,4 +1,3 @@
 numpy
 sentence-transformers
-openai
 requests
